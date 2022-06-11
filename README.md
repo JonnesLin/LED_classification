@@ -1,9 +1,6 @@
-# DLB-Pytorch
+# LED classification
 
-A minimalist unofficial implementation of "Self-Distillation from the Last Mini-Batch for Consistency Regularization"
-
-reference: https://arxiv.org/pdf/2203.16172.pdf
-
+It is based on DLB (a self-distillation technique)
 ## Prerequisites
 
 + PyTorch
