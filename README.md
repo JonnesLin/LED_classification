@@ -11,7 +11,7 @@ It is based on DLB (a self-distillation technique)
 + python3
 + CUDA
 
-## Citations
+## ref
 
 ```bibtex
 @misc{https://doi.org/10.48550/arxiv.2203.16172,
